@@ -50,3 +50,9 @@ This Chrome extension allows users to retrieve images from a selected element on
 5. Select the desired option to retrieve and view the images.
 
 Enjoy using the extension to easily extract and view images from web pages!
+
+## Acknowledgments
+This extension was developed by [Vishesh Singh](https://github.com/visheshism).
+
+## Contribution
+Feel free to contribute to this project by making a pull request.
